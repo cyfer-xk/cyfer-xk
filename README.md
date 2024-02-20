@@ -37,8 +37,6 @@
 
 <br/>
 
-<div align="center">
 <h3 align="center">©️ Reverse By CXF3R</h3>
-</div>
 
 <br/>
