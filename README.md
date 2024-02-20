@@ -13,18 +13,16 @@
     <a href="https://soundcloud.com/cyfer_xk" target="blank"><img align="center" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="cyfer_xk" height="30" /></a>
 </p>
 
+<!-- <a href="xxxxxxxxx" target="blank"><img align="center" src="xxxxxxx" alt="cyfer_xk" height="30" /></a> -->
 <h3 align="left">Connect with me:</h3>
     <p align="left">
-    <a href="https://github.com/CXF3R" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="cyfer_xk" height="30" /></a>
+    <a href="https://www.pinterest.com/cyfer_xk" target="blank"><img align="center" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the badge&logo=Pinterest&logoColor=white" alt="cyfer_xk" height="30" /></a>
     <a href="https://twitter.com/cyfer_xk" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="cyfer_xk" height="30" /></a>
     <a href="https://instagram.com/cyfer_xk" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="cyfer_xk" height="30" /></a>
     <a href="https://www.tiktok.com/@cyfer_xk" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="cyfer_xk" height="30" /></a>
     <a href="https://www.threads.net/@cyfer_xk" target="blank"><img align="center" src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="cyfer_xk" height="30" /></a>
-    <a href="https://www.pinterest.com/cyfer_xk" target="blank"><img align="center" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the badge&logo=Pinterest&logoColor=white" alt="cyfer_xk" height="30" /></a>
-    <a href="xxxxxxxxx" target="blank"><img align="center" src="xxxxxxx" alt="cyfer_xk" height="30" /></a>
-    <a href="xxxxxxxxx" target="blank"><img align="center" src="xxxxxxx" alt="cyfer_xk" height="30" /></a>
-    <a href="xxxxxxxxx" target="blank"><img align="center" src="xxxxxxx" alt="cyfer_xk" height="30" /></a>
-    <a href="xxxxxxxxx" target="blank"><img align="center" src="xxxxxxx" alt="cyfer_xk" height="30" /></a>
+    <a href="https://github.com/CXF3R" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="cyfer_xk" height="30" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
