@@ -51,7 +51,7 @@
 </p>
 
 <hr/>
-<h3 align="center">Support Me</h3>
+<h3 align="center">● Support Me</h3>
     <div align="center">
         <a href="https://www.buymeacoffee.com/cyfer_xk"> <img  src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="50" width="210" alt="cyfer_xk" /></a>
         <a href="https://ko-fi.com/cyfer_xk"> <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="50" width="210" alt="cyfer_xk" /></a>
