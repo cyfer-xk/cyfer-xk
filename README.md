@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CXF3R</h1>
 
 * 🌍  I'm based in Thailand
-* ⚡  I’m currently learning Next.js, React, AWS
+* ⚡  I’m currently learning Next.js, React
 <hr/>
 <!-- * ✉️  You can contact me at [kensattawat@gmail.com](mailto:kensattawat@gmail.com) -->
 
