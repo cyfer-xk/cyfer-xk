@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm CXF3R</h1>
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [kensattawat@gmail.com](mailto:kensattawat@gmail.com)
+* ⚡  I’m currently learning Next.js, React, AWS
+<!-- * ✉️  You can contact me at [kensattawat@gmail.com](mailto:kensattawat@gmail.com) -->
 
   
-<div align="center">
+<!-- <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cxf3r&label=Profile%20views&color=0e75b6&style=flat" alt="cxf3r" /> </p>
- <hr/>
+ <hr/> -->
 <h3 align="left">● Sound</h3>
     <a href="https://open.spotify.com/user/21h6nv52qavqqmq53aqb72xzq" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="cyfer_xk" height="30" /></a>
     <a href="https://soundcloud.com/cyfer_xk" target="blank"><img align="center" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="cyfer_xk" height="30" /></a>
