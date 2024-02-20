@@ -38,17 +38,10 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/cyfer_xk" target='_blank'> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cyfer_xk" /></a>
-    <a href="https://ko-fi.com/cyfer_xk"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="cyfer_xk" /></a></p><br><br>
-
-        <div align="center"> 
-            <a href="https://www.buymeacoffee.com/cyfer_xk">
-              <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" />
-            </a>
-            <a href="https://ko-fi.com/cyfer_xk" target="_blank">
-              <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" target="_blank" />
-            </a>
-          </div>
+<div align="center"> 
+    <a href="https://www.buymeacoffee.com/cyfer_xk" target='_blank'> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cyfer_xk" /></a>
+    <a href="https://ko-fi.com/cyfer_xk"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="cyfer_xk" /></a></><br><br>
+</div>
 
 <br/>
 
