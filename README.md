@@ -65,5 +65,3 @@
 <hr/>
 
 <h3 align="center">©️ Reverse By CXF3R</h3>
-
-<br/>
