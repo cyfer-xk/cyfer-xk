@@ -36,7 +36,7 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" alt="postman" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="react" width="40" height="40"/> </a> </p>
-   
+   <hr/>
 <h3 align="center">Support:</h3>
     <div align="center">
         <a href="https://www.buymeacoffee.com/cyfer_xk"> <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cyfer_xk" /></a>
