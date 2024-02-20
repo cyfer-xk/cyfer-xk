@@ -2,6 +2,7 @@
 
 * 🌍  I'm based in Thailand
 * ⚡  I’m currently learning Next.js, React, AWS
+<hr/>
 <!-- * ✉️  You can contact me at [kensattawat@gmail.com](mailto:kensattawat@gmail.com) -->
 
   
