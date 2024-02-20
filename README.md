@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm CXF3R</h1>
 <h3 align="center">©️ Reverse By CXF3R</h3>
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  </div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cxf3r&label=Profile%20views&color=0e75b6&style=flat" alt="cxf3r" /> </p>
 
 <p align="left"> <a href="https://twitter.com/cyfer_xk" target="blank"><img src="https://img.shields.io/twitter/follow/cyfer_xk?logo=twitter&style=for-the-badge" alt="cyfer_xk" /></a> </p>
