@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CXF3R</h1>
 
-<h4 align="center">* 🌍  I'm based in Thailand</h4>
-<h4 align="center">* ✉️  You can contact me at [kensattawat@gmail.com](mailto:kensattawat@gmail.com)</h4>
+* 🌍  I'm based in Thailand
+* ✉️  You can contact me at [kensattawat@gmail.com](mailto:kensattawat@gmail.com)
 
   
 <div align="center">
