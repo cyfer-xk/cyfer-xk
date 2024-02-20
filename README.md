@@ -8,12 +8,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cxf3r&label=Profile%20views&color=0e75b6&style=flat" alt="cxf3r" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cyfer_xk" target="blank"><img src="https://img.shields.io/twitter/follow/cyfer_xk?logo=twitter&style=for-the-badge" alt="cyfer_xk" /></a> </p>
+<h3 align="left">Sound:</h3>
+    <a href="https://open.spotify.com/user/21h6nv52qavqqmq53aqb72xzq" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="cyfer_xk" height="30" /></a>
+    <a href="https://soundcloud.com/cyfer_xk" target="blank"><img align="center" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="cyfer_xk" height="30" /></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cyfer_xk" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="cyfer_xk" height="30" /></a>
-<a href="https://instagram.com/cyfer_xk" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="cyfer_xk" height="30" /></a>
+    <p align="left">
+    <a href="https://github.com/CXF3R" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="cyfer_xk" height="30" /></a>
+    <a href="https://twitter.com/cyfer_xk" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="cyfer_xk" height="30" /></a>
+    <a href="https://instagram.com/cyfer_xk" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="cyfer_xk" height="30" /></a>
+    <a href="https://www.tiktok.com/@cyfer_xk" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="cyfer_xk" height="30" /></a>
+    <a href="https://www.threads.net/@cyfer_xk" target="blank"><img align="center" src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="cyfer_xk" height="30" /></a>
+    <a href="https://www.pinterest.com/cyfer_xk" target="blank"><img align="center" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the badge&logo=Pinterest&logoColor=white" alt="cyfer_xk" height="30" /></a>
+    <a href="xxxxxxxxx" target="blank"><img align="center" src="xxxxxxx" alt="cyfer_xk" height="30" /></a>
+    <a href="xxxxxxxxx" target="blank"><img align="center" src="xxxxxxx" alt="cyfer_xk" height="30" /></a>
+    <a href="xxxxxxxxx" target="blank"><img align="center" src="xxxxxxx" alt="cyfer_xk" height="30" /></a>
+    <a href="xxxxxxxxx" target="blank"><img align="center" src="xxxxxxx" alt="cyfer_xk" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
