@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cxf3r&label=Profile%20views&color=0e75b6&style=flat" alt="cxf3r" /> </p>
  <hr/> -->
 
- <h3 align="left">● Program Daw</h3>
+ <h3 align="left">● Daw</h3>
  <p align="left">
  <a href="https://www.image-line.com/" target="_blank" rel="noreferrer"><img src="https://media.tenor.com/9m6sXdq-wFkAAAAi/fl-studio-21-logo.gif" width="30" height="30" alt="FL_Studio" /></a>
 </p>
@@ -26,7 +26,7 @@
 </p>
 
 <!-- <a href="xxxxxxxxx" target="blank"><img align="center" src="xxxxxxx" alt="cyfer_xk" height="30" /></a> -->
-<h3 align="left">● Socials</h3>
+<h3 align="left">● Social</h3>
     <p align="left">
     <a href="https://www.pinterest.com/cyfer_xk" target="blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the badge&logo=Pinterest&logoColor=white" alt="cyfer_xk" height="30" /></a>
     <a href="https://twitter.com/cyfer_xk" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="cyfer_xk" height="30" /></a>
@@ -37,7 +37,7 @@
 
 </p>
 
-<h3 align="left">● Skills</h3>
+<h3 align="left">● Skill</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="30" height="30" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="30" height="30" alt="HTML5" /></a>
