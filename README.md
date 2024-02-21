@@ -19,7 +19,8 @@
  <a href="https://www.image-line.com/" target="_blank" rel="noreferrer"><img src="https://media.tenor.com/9m6sXdq-wFkAAAAi/fl-studio-21-logo.gif" width="30" height="30" alt="FL_Studio" /></a>
 </p>
 
-<h3 align="left">● Sound</h3>
+<h3 align="left">● Streaming</h3>
+    <a href="https://www.youtube.com/@cyfer_xk" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="cyfer_xk" height="30" /></a>
     <a href="https://open.spotify.com/user/21h6nv52qavqqmq53aqb72xzq" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="cyfer_xk" height="30" /></a>
     <a href="https://soundcloud.com/cyfer_xk" target="blank"><img align="center" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="cyfer_xk" height="30" /></a>
 </p>
