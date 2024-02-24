@@ -33,7 +33,7 @@
     <a href="https://instagram.com/cyfer_xk" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="cyfer_xk" height="30" /></a>
     <a href="https://www.tiktok.com/@cyfer_xk" target="blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="cyfer_xk" height="30" /></a>
     <a href="https://www.threads.net/@cyfer_xk" target="blank"><img  src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="cyfer_xk" height="30" /></a>
-    <a href="https://github.com/CXF3R" target="blank"><img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="cyfer_xk" height="30" /></a>
+    <a href="https://github.com/cyfer-xk" target="blank"><img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="cyfer_xk" height="30" /></a>
 
 </p>
 
