@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CXF3R</h1>
+<h1 align="center">Hi 👋, I'm CYFER</h1>
 
 * 🌍  I'm based in Thailand
 * ⚡  I’m currently learning Next.js, React
